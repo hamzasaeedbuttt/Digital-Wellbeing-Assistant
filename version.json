@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "seed": 42,
+  "samples": 3000,
+  "features": 9
+}
